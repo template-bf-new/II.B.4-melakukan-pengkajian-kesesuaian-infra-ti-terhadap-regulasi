@@ -1,0 +1,41 @@
+= Dokumen Kajian Terhadap Pemenuhan / Kesesuaian Infrastruktur Teknologi Informasi Terhadap Regulasi
+
+[.text-center]
+Priyanto Tamami <tamami.oka@gmail.com>
+
+[.text-center]
+Badan Pendapatan Daerah +
+Pemerintah Kabupaten Brebes
+
+:doctype: article
+:author: tamami
+:source-highlighter: rouge
+:table-caption: Tabel 
+:sourcedir: src
+:includedir: contents
+:imagesdir: images
+:chapter-label: Bab
+:figure-caption: Gambar 
+:icons: font
+////
+Use this if you create a full cover in one page
+:front-cover-image: image::./images/title_page.png[]
+////
+//:title-logo-image: images/logo-zimera.png
+
+
+== Latar Belakang, Tujuan, dan Batasan
+
+== Deskripsi Mengenai Regulasi / Standar / Praktik Terbaik Yang Digunakan
+
+== Hasil Kajian Terhadap Regulasi / Standar / Praktik Terbaik yang Digunakan
+
+== Hasil Pemetaan Pemenuhan / Kesesuaian Infrastruktur TI Terhadap Regulasi / Standar / Praktek Terbaik Yang Digunakan
+
+== Hasil Identifikasi Gap
+
+== Hasil Analisis Gap
+
+== Rekomendasi
+
+== Lembar Persetujuan
